@@ -1,0 +1,17 @@
+{
+  "name": "26setenta",
+  "version": "1.0.0",
+  "description": "26SETENTA - Agência criativa de vídeo, estratégia e tecnologia",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build required'",
+    "preview": "npx serve ."
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
