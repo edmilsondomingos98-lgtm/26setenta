@@ -8,7 +8,7 @@
   --ff:'Poppins',sans-serif;
 }
 *{margin:0;padding:0;box-sizing:border-box;}
-html{scroll-behavior:smooth;}
+html{scroll-behavior:smooth;overflow-x:hidden;}
 body{font-family:var(--ff);background:var(--black);color:var(--white);overflow-x:hidden;}
 .wrap{max-width:1180px;margin:0 auto;padding:0 32px;position:relative;z-index:1;}
 .eyebrow{font-size:13px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--purple);}
